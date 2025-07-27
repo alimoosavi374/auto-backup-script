@@ -1,0 +1,16 @@
+
+1. Initial commit - basic script structure
+2. Add config file support
+3. Implement file format filtering
+4. Add dry-run functionality
+5. Implement logging system
+6. Add backup rotation
+7. Improve error handling
+8. Add command line arguments parsing
+9. Add documentation
+10. Fix bug in file counting
+11. Add scheduling script
+12. Optimize tar command
+13. Update README with usage examples
+14. Add backup size reporting
+15. Final cleanup and comments
